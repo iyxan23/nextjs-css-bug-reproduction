@@ -1,0 +1,8 @@
+#elem::after {
+  content: "this should not show up";
+  color: red;
+}
+
+#other {
+  color: green;
+}
